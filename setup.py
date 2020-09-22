@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="GnuplotPy3",
-    version="0.0.1",
+    version="0.0.2",
     author="Cong Wang",
     author_email="wangimagine@gmail.com",
     description="A minimal Python wrapper for Gnuplot.",
