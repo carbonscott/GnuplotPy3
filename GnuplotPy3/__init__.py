@@ -7,7 +7,7 @@ __all__ = [
             "GnuplotPy3",
           ]
 
-version = "1.0"
+version = "0.0.1"
 
 print("""\
 
