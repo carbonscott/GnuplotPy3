@@ -10,10 +10,10 @@ Python3 script.  Please refer to the example below for a quick start.
 ```
 import GnuplotPy3
 gp = GnuplotPy3.GnuplotPy3()
-gp('set terminal postscript eps size 3.5, 2.62 \\'     )
-gp('                            enhanced color \\'     )
+gp("set terminal postscript eps size 3.5, 2.62 \\"     )
+gp("                            enhanced color \\"     )
 gp("                            font 'Helvetica,14' \\")
-gp('                            linewidth 2'           )
+gp("                            linewidth 2"           )
 gp("set output 'sinx.eps'")
 gp("unset key")
 gp("plot sin(x)")
