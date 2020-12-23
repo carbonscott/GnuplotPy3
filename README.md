@@ -20,3 +20,9 @@ gp("plot sin(x)")
 
 input("Press enter to exit...")
 ```
+
+## Install the latest package
+
+```
+pip install git+https://github.com/carbonscott/GnuplotPy3.git --upgrade --user
+```
