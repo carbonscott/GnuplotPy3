@@ -8,8 +8,3 @@ __all__ = [
           ]
 
 version = "0.0.3"
-
-print("""\
-
-Welcome to GnuplotPy3_{VERSION}""".format( VERSION = version ) )
-print()
